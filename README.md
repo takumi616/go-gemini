@@ -1,2 +1,2 @@
 # go-gemini
-Use google's generative AI service gemini in Golang.
+Google's generative AI Gemini in Golang.
